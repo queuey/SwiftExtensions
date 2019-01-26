@@ -7,14 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6C4F67BF21FC510C000BA252 /* UIApplication+YBAdd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C4F67BE21FC510C000BA252 /* UIApplication+YBAdd.swift */; };
+		6C4F67C121FC523F000BA252 /* CGRect+YBAdd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C4F67C021FC523F000BA252 /* CGRect+YBAdd.swift */; };
+		6C4F67C321FC5413000BA252 /* UIImageView+YBAdd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C4F67C221FC5413000BA252 /* UIImageView+YBAdd.swift */; };
+		6C4F67C521FC54EC000BA252 /* UIViewController+YBAdd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C4F67C421FC54EC000BA252 /* UIViewController+YBAdd.swift */; };
+		6C4F67C721FC55D6000BA252 /* CALayer+YBAdd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C4F67C621FC55D6000BA252 /* CALayer+YBAdd.swift */; };
+		6C4F67C921FC5B19000BA252 /* UIButton+YBAdd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C4F67C821FC5B19000BA252 /* UIButton+YBAdd.swift */; };
+		6C4F67CB21FC5DC7000BA252 /* UITextField+YBAdd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C4F67CA21FC5DC7000BA252 /* UITextField+YBAdd.swift */; };
 		6C914DDF21FBFB1400BFE55C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C914DDE21FBFB1400BFE55C /* AppDelegate.swift */; };
 		6C914DE121FBFB1400BFE55C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C914DE021FBFB1400BFE55C /* ViewController.swift */; };
 		6C914DE421FBFB1400BFE55C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6C914DE221FBFB1400BFE55C /* Main.storyboard */; };
 		6C914DE621FBFB1600BFE55C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6C914DE521FBFB1600BFE55C /* Assets.xcassets */; };
 		6C914DE921FBFB1600BFE55C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6C914DE721FBFB1600BFE55C /* LaunchScreen.storyboard */; };
+		6C914DF521FBFBD800BFE55C /* NSObject+YBAdd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C914DF421FBFBD800BFE55C /* NSObject+YBAdd.swift */; };
+		6C914DF721FC390100BFE55C /* UIColor+YBAdd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C914DF621FC390100BFE55C /* UIColor+YBAdd.swift */; };
+		6C914DF921FC3AAD00BFE55C /* UIView+YBAdd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C914DF821FC3AAD00BFE55C /* UIView+YBAdd.swift */; };
+		6C914DFB21FC3C7A00BFE55C /* String+YBAdd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C914DFA21FC3C7A00BFE55C /* String+YBAdd.swift */; };
+		6C914DFD21FC3E1100BFE55C /* Optional+YBAdd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C914DFC21FC3E1100BFE55C /* Optional+YBAdd.swift */; };
+		6C914DFF21FC417D00BFE55C /* UIDevice+YBAdd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C914DFE21FC417D00BFE55C /* UIDevice+YBAdd.swift */; };
+		6C914E0121FC467000BFE55C /* UILabel+YBAdd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C914E0021FC467000BFE55C /* UILabel+YBAdd.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6C4F67BE21FC510C000BA252 /* UIApplication+YBAdd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIApplication+YBAdd.swift"; sourceTree = "<group>"; };
+		6C4F67C021FC523F000BA252 /* CGRect+YBAdd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CGRect+YBAdd.swift"; sourceTree = "<group>"; };
+		6C4F67C221FC5413000BA252 /* UIImageView+YBAdd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImageView+YBAdd.swift"; sourceTree = "<group>"; };
+		6C4F67C421FC54EC000BA252 /* UIViewController+YBAdd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController+YBAdd.swift"; sourceTree = "<group>"; };
+		6C4F67C621FC55D6000BA252 /* CALayer+YBAdd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CALayer+YBAdd.swift"; sourceTree = "<group>"; };
+		6C4F67C821FC5B19000BA252 /* UIButton+YBAdd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIButton+YBAdd.swift"; sourceTree = "<group>"; };
+		6C4F67CA21FC5DC7000BA252 /* UITextField+YBAdd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UITextField+YBAdd.swift"; sourceTree = "<group>"; };
 		6C914DDB21FBFB1400BFE55C /* YBExtensions.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YBExtensions.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6C914DDE21FBFB1400BFE55C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6C914DE021FBFB1400BFE55C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +43,13 @@
 		6C914DE521FBFB1600BFE55C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6C914DE821FBFB1600BFE55C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6C914DEA21FBFB1600BFE55C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6C914DF421FBFBD800BFE55C /* NSObject+YBAdd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NSObject+YBAdd.swift"; sourceTree = "<group>"; };
+		6C914DF621FC390100BFE55C /* UIColor+YBAdd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+YBAdd.swift"; sourceTree = "<group>"; };
+		6C914DF821FC3AAD00BFE55C /* UIView+YBAdd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+YBAdd.swift"; sourceTree = "<group>"; };
+		6C914DFA21FC3C7A00BFE55C /* String+YBAdd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+YBAdd.swift"; sourceTree = "<group>"; };
+		6C914DFC21FC3E1100BFE55C /* Optional+YBAdd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Optional+YBAdd.swift"; sourceTree = "<group>"; };
+		6C914DFE21FC417D00BFE55C /* UIDevice+YBAdd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIDevice+YBAdd.swift"; sourceTree = "<group>"; };
+		6C914E0021FC467000BFE55C /* UILabel+YBAdd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UILabel+YBAdd.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +82,7 @@
 		6C914DDD21FBFB1400BFE55C /* YBExtensions */ = {
 			isa = PBXGroup;
 			children = (
+				6C914DF021FBFB3600BFE55C /* YBExtensions */,
 				6C914DDE21FBFB1400BFE55C /* AppDelegate.swift */,
 				6C914DE021FBFB1400BFE55C /* ViewController.swift */,
 				6C914DE221FBFB1400BFE55C /* Main.storyboard */,
@@ -62,6 +91,51 @@
 				6C914DEA21FBFB1600BFE55C /* Info.plist */,
 			);
 			path = YBExtensions;
+			sourceTree = "<group>";
+		};
+		6C914DF021FBFB3600BFE55C /* YBExtensions */ = {
+			isa = PBXGroup;
+			children = (
+				6C914DF321FBFB6800BFE55C /* Quartz */,
+				6C914DF221FBFB6100BFE55C /* UIKit */,
+				6C914DF121FBFB4300BFE55C /* Foundation */,
+			);
+			path = YBExtensions;
+			sourceTree = "<group>";
+		};
+		6C914DF121FBFB4300BFE55C /* Foundation */ = {
+			isa = PBXGroup;
+			children = (
+				6C4F67C021FC523F000BA252 /* CGRect+YBAdd.swift */,
+				6C914DF421FBFBD800BFE55C /* NSObject+YBAdd.swift */,
+				6C914DFA21FC3C7A00BFE55C /* String+YBAdd.swift */,
+			);
+			path = Foundation;
+			sourceTree = "<group>";
+		};
+		6C914DF221FBFB6100BFE55C /* UIKit */ = {
+			isa = PBXGroup;
+			children = (
+				6C4F67BE21FC510C000BA252 /* UIApplication+YBAdd.swift */,
+				6C914DF621FC390100BFE55C /* UIColor+YBAdd.swift */,
+				6C914DF821FC3AAD00BFE55C /* UIView+YBAdd.swift */,
+				6C914DFE21FC417D00BFE55C /* UIDevice+YBAdd.swift */,
+				6C914E0021FC467000BFE55C /* UILabel+YBAdd.swift */,
+				6C4F67C221FC5413000BA252 /* UIImageView+YBAdd.swift */,
+				6C4F67C421FC54EC000BA252 /* UIViewController+YBAdd.swift */,
+				6C4F67C821FC5B19000BA252 /* UIButton+YBAdd.swift */,
+				6C4F67CA21FC5DC7000BA252 /* UITextField+YBAdd.swift */,
+			);
+			path = UIKit;
+			sourceTree = "<group>";
+		};
+		6C914DF321FBFB6800BFE55C /* Quartz */ = {
+			isa = PBXGroup;
+			children = (
+				6C914DFC21FC3E1100BFE55C /* Optional+YBAdd.swift */,
+				6C4F67C621FC55D6000BA252 /* CALayer+YBAdd.swift */,
+			);
+			path = Quartz;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -136,7 +210,21 @@
 			buildActionMask = 2147483647;
 			files = (
 				6C914DE121FBFB1400BFE55C /* ViewController.swift in Sources */,
+				6C4F67BF21FC510C000BA252 /* UIApplication+YBAdd.swift in Sources */,
+				6C4F67C921FC5B19000BA252 /* UIButton+YBAdd.swift in Sources */,
+				6C914DF921FC3AAD00BFE55C /* UIView+YBAdd.swift in Sources */,
+				6C914DF521FBFBD800BFE55C /* NSObject+YBAdd.swift in Sources */,
+				6C914DFB21FC3C7A00BFE55C /* String+YBAdd.swift in Sources */,
+				6C4F67C521FC54EC000BA252 /* UIViewController+YBAdd.swift in Sources */,
+				6C4F67C321FC5413000BA252 /* UIImageView+YBAdd.swift in Sources */,
+				6C4F67CB21FC5DC7000BA252 /* UITextField+YBAdd.swift in Sources */,
+				6C4F67C121FC523F000BA252 /* CGRect+YBAdd.swift in Sources */,
+				6C4F67C721FC55D6000BA252 /* CALayer+YBAdd.swift in Sources */,
+				6C914DFF21FC417D00BFE55C /* UIDevice+YBAdd.swift in Sources */,
+				6C914E0121FC467000BFE55C /* UILabel+YBAdd.swift in Sources */,
+				6C914DF721FC390100BFE55C /* UIColor+YBAdd.swift in Sources */,
 				6C914DDF21FBFB1400BFE55C /* AppDelegate.swift in Sources */,
+				6C914DFD21FC3E1100BFE55C /* Optional+YBAdd.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
